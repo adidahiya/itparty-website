@@ -23,7 +23,7 @@ We're pretty excited for this venue! It's a 15min walk from NYU, has a nice soun
 
 $15 in advance / $20 day of party
 
-- [Venmo @adidahiya](https://venmo.com/adidahiya) to be added to the guest list.
+- [Venmo @adidahiya](https://venmo.com/adidahiya) to be added to the guest list (make sure to include your name, and names of any +1s if you are buying for them in the payment message!).
 - The spring party is our fundraiser for parties throughout the year. We use the funds raised here to ensure that we can keep throwing parties at nice venues (and we'd like to keep the winter & spring show afterparties free & inclusive during an especially busy/stressful time of year so that everyone can come dance off some steam).
 
 ### Ways to get ~free entry~
