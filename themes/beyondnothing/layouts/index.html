@@ -4,26 +4,26 @@
 <meta charset="utf-8">
 {{ .Hugo.Generator }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Montserrat:500|Viga" rel="stylesheet">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
 <link rel="stylesheet" href="/css/normalize.css">
 <link rel="stylesheet" href="/css/skeleton.css">
 <link rel="stylesheet" href="/css/custom.css">
-<title>ITP Spring Party</title>
+<title>itparty.fun</title>
 </head>
 <body>
 
 <div class="container">
 
 	<header role="banner">
-	<h1>ITP Spring Party</h1>
+	<h1>ITP + party = fun</h1>
 	</header>
 	
 	<main role="main">
 {{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
 
 			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
+			<!-- <span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span> -->
 
 {{ end }}
 	</main>
