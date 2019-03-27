@@ -53,13 +53,13 @@ ul {
 	font-size:14px;
 	background:#eeeeee;
 	padding: 8px 0px 9px 45px;
-	margin: 0px 0px 1.25em 30px;
+	margin: 0;
 	line-height:1.25;
-	}
+}
 
 hr {
 	display: none;
-	}
+}
 
 .container {
   width: 85%;
