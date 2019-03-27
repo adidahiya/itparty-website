@@ -1,5 +1,5 @@
 ---
-title: "ITP Spring party information"
+title: "ITP Spring Party Information"
 date: 2019-03-27T12:56:07-04:00
 ---
 
@@ -18,6 +18,8 @@ New York, NY 10002
 ![upstairs](/images/better-days-upstairs.jpg)
 
 We're pretty excited for this venue! It's a 15min walk from NYU, has a nice sound system and dance floor, and there will be drink specials throughout the night.
+
+SOs / guests from outside ITP are welcome, just make sure to buy a ticket for them.
 
 ## $$ Tickets $$
 
