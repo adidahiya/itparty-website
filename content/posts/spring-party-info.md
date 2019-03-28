@@ -37,3 +37,5 @@ $15 in advance / $20 day of party
 For any of the above, [email the social chairs](mailto:ad1806@nyu.edu?cc=ajl774@nyu.edu) for more details.
 
 ---> For DJs, [fill out this form](https://forms.gle/rS8orgKrwSV3yd7C6) <---
+
+---> For VJs, [fill out this form](https://forms.gle/ZrUVakgfn4iS4y4BA) <---
