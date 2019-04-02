@@ -19,18 +19,24 @@ New York, NY 10002
 
 We're pretty excited for this venue! It's a 15min walk from NYU, has a nice sound system and dance floor, and there will be drink specials throughout the night.
 
-SOs / guests from outside ITP are welcome, just make sure to buy a ticket for them.
+Non-ITPers are welcome! Bring your friends / SOs, just make sure to buy a ticket for them.
+
+## Theme
+
+The theme is __post-apocalyptic__. Think: zombies, space, cyborgs, technological singularity, alien invasion, nuclear winter, Max Max, etc...
+
+Costumes are encouraged but not required. [Check out this mood board for ideas](https://www.are.na/itp-spring-party). Or, just wear something semi-formal / nice!
 
 ## $$ Tickets $$
 
-$15 in advance / $20 day of party
+$15 in advance (until midnight on April 2) / $20 day of party
 
 - [Venmo @adidahiya](https://venmo.com/adidahiya) to be added to the guest list (make sure to include your name, and names of any +1s if you are buying for them in the payment message!).
-- The spring party is our fundraiser for parties throughout the year. We use the funds raised here to ensure that we can keep throwing parties at nice venues (and we'd like to keep the winter & spring show afterparties free & inclusive during an especially busy/stressful time of year so that everyone can come dance off some steam).
+- The spring party is our fundraiser for parties throughout the year. We use the funds raised here to ensure that we can keep throwing parties at nice venues (and we'd like to keep the winter & spring show afterparties free & inclusive during an especially busy/stressful time of year).
 
 ### Ways to get ~free entry~
 
-- Document a __promposal__!!
+- Document a __promposal__! Show photo or video proof of a proposal where you ask out your date in a creative way. Email this to Adi and/or Ashley by __midnight on Tuesday, April 2__.
 - Volunteer for a door shift during the party
 - Play a DJ / VJ slot
 
