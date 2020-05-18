@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/"
-  to = "https://docs.google.com/document/d/10H3Bx8FGbhz-UWHhnIubeX0JZIlz8gvQr0Bb22h06I8/"
+  from = "https://itparty.fun"
+  to = "https://docs.google.com/document/d/10H3Bx8FGbhz-UWHhnIubeX0JZIlz8gvQr0Bb22h06I8"
   status = 307
   force = true
