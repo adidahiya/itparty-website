@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "https://itparty.fun"
+  from = "/"
   to = "https://docs.google.com/document/d/10H3Bx8FGbhz-UWHhnIubeX0JZIlz8gvQr0Bb22h06I8"
   status = 302
+  force = true
