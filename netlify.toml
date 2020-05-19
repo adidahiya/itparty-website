@@ -3,3 +3,9 @@
   to = "https://docs.google.com/document/d/10H3Bx8FGbhz-UWHhnIubeX0JZIlz8gvQr0Bb22h06I8"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/ddh"
+  to = "https://digital-dance-hall.netlify.app/stream/?twitchChannel=comf0rtzone"
+  status = 302
+  force = true
